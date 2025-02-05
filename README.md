@@ -28,7 +28,7 @@ Web browser (e.g., Chrome, Firefox, Safari)
 Text editor (e.g., Visual Studio Code, Sublime Text)
 Installation
 Clone the repository:
-git clone 
+git clone https://github.com/Asmita-25/Codtech_E_Learning_Platform_UI
 Open the project in your preferred text editor.
 Launch the index.html file in a web browser.
 Technologies Used
